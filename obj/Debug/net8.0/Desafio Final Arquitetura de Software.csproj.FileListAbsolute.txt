@@ -58,3 +58,4 @@ C:\Users\thiag\source\repos\API-Restfull-MVC\obj\Debug\net8.0\refint\Desafio Fin
 C:\Users\thiag\source\repos\API-Restfull-MVC\obj\Debug\net8.0\Desafio Final Arquitetura de Software.pdb
 C:\Users\thiag\source\repos\API-Restfull-MVC\obj\Debug\net8.0\Desafio Final Arquitetura de Software.genruntimeconfig.cache
 C:\Users\thiag\source\repos\API-Restfull-MVC\obj\Debug\net8.0\ref\Desafio Final Arquitetura de Software.dll
+C:\Users\thiag\source\repos\API-Restfull-MVC\obj\Debug\net8.0\Desafio Final Arquitetura de Software.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio Final Arquitetura de Software")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a2dee79c59c71da7ebffe6753c78b5d445207e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio Final Arquitetura de Software")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio Final Arquitetura de Software")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
