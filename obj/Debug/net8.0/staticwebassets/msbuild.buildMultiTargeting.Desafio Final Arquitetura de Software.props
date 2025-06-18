@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Desafio Final Arquitetura de Software.props" />
+</Project>
