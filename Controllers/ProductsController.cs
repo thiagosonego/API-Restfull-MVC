@@ -23,7 +23,7 @@ namespace Desafio_Final_Arquitetura_de_Software.Controllers
         }
 
         [HttpGet("ByName")]
-        public async Task<ActionResult<Products>> GetAllByName(string name)
+        public async Task<ActionResult<IEnumerable<Products>>> GetAllByName(string name)
         {
             var products = await _service.GetAllByNameAsync(name);
             if (products == null || products.Count() <= 0) return NotFound();
@@ -31,7 +31,7 @@ namespace Desafio_Final_Arquitetura_de_Software.Controllers
         }
 
         [HttpGet("Count")]
-        public async Task<ActionResult<Products>> GetCount()
+        public async Task<ActionResult<int>> GetCount()
         {
             var count = await _service.CountAllAsync();
             return Ok(count);
