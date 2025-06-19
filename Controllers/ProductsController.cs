@@ -1,5 +1,4 @@
 ﻿using Desafio_Final_Arquitetura_de_Software.Models.Entities;
-using Desafio_Final_Arquitetura_de_Software.Models.Repositories;
 using Desafio_Final_Arquitetura_de_Software.Models.Services;
 using Microsoft.AspNetCore.Mvc;
 
